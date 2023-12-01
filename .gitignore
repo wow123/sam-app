@@ -210,3 +210,8 @@ $RECYCLE.BIN/
 .aws-sam
 target
 samconfig.toml
+
+
+.aws-sam
+samconfig.toml
+target
